@@ -1,8 +1,9 @@
-{-  ┌─────────────────────────────────────────────────────────┐
-    |  file: sundaram.hs                                      |
-    |  author: David De Potter, pl3onasm@gmail.com            |
-    |  license: refer to the license file in this repository  |
-    |  description: implementation of the sieve of Sundaram   |
+{-
+    ┌─────────────────────────────────────────────────────────┐
+    │  File: sundaram.hs                                      │
+    │  Author: David De Potter, pl3onasm@gmail.com            │
+    │  License: refer to the license file in this repository  │
+    │  Description: implementation of the sieve of Sundaram   │
     └─────────────────────────────────────────────────────────┘
 -}
 
